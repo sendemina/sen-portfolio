@@ -4,9 +4,13 @@ I am a senior bachelor student working to complete my degree in Media Computatio
 
 
 EDUCATION
+
 CUNY NYC College of Technology  — BTech in Emerging Media Technology
+
 Media Computation Concentration / Minor in Computer Science
+
 AUGUST 2021 - PRESENT
+
 3.96 GPA
 
 
@@ -46,6 +50,7 @@ CODING
 
 
 PROJECTS
+
 I. Archery Game. This is a simple 3D game of interactions I made in Unity utilizing an interwoven structure of interactions. The player has a health and stamina bar, and can target an ever approaching enemy and shoot it with an arrow from their bow. This project demonstrates my experience with Unity as well as Blender, since I modeled and rigged all the assets. https://github.com/sendemina/MTEC2120_Final
 
 II. Seasons, interactive visualization. A multi-scene interactive visualization I coded in Processing, which includes several UI features like painting clouds, changing hues, cycling through the seasons, controlling the wind, and others. https://github.com/sendemina/Seasons
