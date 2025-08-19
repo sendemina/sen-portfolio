@@ -12,7 +12,12 @@
 ## I. Inlandish WIP
 Complex simulation of a village, made in Unity. People choose their professions, fulfill their needs, and pass down their knowledge to the little ones, creating their own culture in the meantime.
 
-## II. Seasons, interactive visualization. 
+
+## II. Arboreal Santuary
+[video](https://www.youtube.com/watch?v=pVTOQnV0uS8)
+Meditation app that creates a procedural tree for each session and saves it to the calendar-garden.
+
+## III. Seasons, interactive visualization. 
 A multi-scene interactive visualization I coded in Processing, which includes several UI features like painting clouds, changing hues, cycling through the seasons, controlling the wind, and others. 
 
 ### In the spring, paint your own clouds:
@@ -28,6 +33,6 @@ https://github.com/sendemina/Seasons/assets/89432530/e42dea1b-8fbc-4eff-aeea-9cd
 https://github.com/sendemina/Seasons/assets/89432530/1e5c807c-68e0-4c7f-94a9-746f5fa3d61f
 
 
-### III. Sencraft, game and controller. 
+### IV. Sencraft, game and controller. 
 I coded a procedurally generated landscape that the user can traverse using a controller I custom made for this game. The controller consists of a tilt sensor and a joystick, which send their signals through Arduino, using a custom-made system of signaling, to Processing where the game is run. 
 
