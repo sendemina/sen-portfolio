@@ -15,7 +15,7 @@ Complex simulation of a village, made in Unity. People choose their professions,
 
 ## II. Arboreal Santuary
 [video](https://www.youtube.com/watch?v=pVTOQnV0uS8)
-![Image](Images/Image Sequence_009_0000.jpg)
+![Image](https://github.com/user-attachments/assets/bda91451-7666-4add-bc2d-5ef572eacbcc)
 Meditation app that creates a procedural tree for each session and saves it to the calendar-garden.
 
 ## III. Seasons, interactive visualization. 
