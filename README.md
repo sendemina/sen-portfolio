@@ -6,6 +6,8 @@
 
 [My LinkedIn](www.linkedin.com/in/kseniia-demina)
 
+[My Art Portfolio](https://github.com/sendemina/Portfolio)
+
 
 ## PROJECTS
 
