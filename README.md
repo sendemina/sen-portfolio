@@ -21,6 +21,7 @@ Meditation app that creates a procedural tree for each session and saves it to t
 [Watch the video](https://www.youtube.com/watch?v=pVTOQnV0uS8)
 
 <img src="https://github.com/user-attachments/assets/bda91451-7666-4add-bc2d-5ef572eacbcc" width="400"/>
+<img src="https://github.com/user-attachments/assets/b4df0a82-42fa-4474-8362-ba0650a185e6" width="400"/>
 
 
 
