@@ -14,8 +14,7 @@ Complex simulation of a village, made in Unity. People choose their professions,
 
 
 ## II. Arboreal Santuary
-[![Image](<img src = "https://github.com/user-attachments/assets/bda91451-7666-4add-bc2d-5ef572eacbcc" width="400"/>)](https://www.youtube.com/watch?v=pVTOQnV0uS8)
-
+Watch the video below:
 <a href="https://www.youtube.com/watch?v=pVTOQnV0uS8">
   <img src="https://github.com/user-attachments/assets/bda91451-7666-4add-bc2d-5ef572eacbcc" width="400"/>
 </a>
