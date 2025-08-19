@@ -14,7 +14,7 @@
 ## I. Inlandish WIP
 Complex simulation of a village, made in Unity. People choose their professions, fulfill their needs, and pass down their knowledge to the little ones, creating their own culture in the meantime.
 
-[Video](https://github.com/user-attachments/assets/377f63e6-45cb-4c12-919f-26b8a8983323)
+[Video](https://youtu.be/4Tig5VRbbjQ)
 
 ![Image](https://github.com/user-attachments/assets/314687bf-0866-46a2-b234-54ec6de8a055)
 
