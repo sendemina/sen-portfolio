@@ -2,7 +2,7 @@
 
 ## I am a fresh graduate with a degree in Media Computation and a minor in Computer Science. I am a versatile programmer and artist, experienced in multiple object-oriented programming languages, UI/UX, as well as concept art and Blender. I possess both the technical and the creative skills required to solve software engineering challenges effectively, and a mind always ready for learning, which will keep me open for ever more growth.
 
-[My Resume](https://drive.google.com/file/d/13d-Xw9uCJVkbg2oUmUE3pZrJEq6gjAyd/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1Te7J_FSOBpBJl2KEXBR-viCL7WWebBEU/view?usp=sharing)
 
 [My LinkedIn](www.linkedin.com/in/kseniia-demina)
 
