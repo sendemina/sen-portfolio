@@ -42,4 +42,5 @@ https://github.com/sendemina/Seasons/assets/89432530/1e5c807c-68e0-4c7f-94a9-746
 ### IV. Sencraft, game and controller. 
 I coded a procedurally generated landscape that the user can traverse using a controller I custom made for this game. The controller consists of a tilt sensor and a joystick, which send their signals through Arduino, using a custom-made system of signaling, to Processing where the game is run. 
 [Watch the video](https://www.youtube.com/watch?v=xnlBxOlgdcU)
+<img width="634" height="391" alt="Image" src="https://github.com/user-attachments/assets/02b92df3-52aa-4c3b-8e13-2538f44cdd34" />
 
