@@ -11,16 +11,25 @@
 
 ## PROJECTS
 
-## I. Inlandish WIP
-Complex simulation of a village, made in Unity. People choose their professions, fulfill their needs, and pass down their knowledge to the little ones, creating their own culture in the meantime.
+## I. Inlandish (WIP)
+
+Unity project
+A self-organizing virtual village capable of developing its own culture and emergent behaviors. People choose their professions, practice their craft, fulfill their needs, and pass down their knowledge to the little ones.
 
 [Video](https://youtu.be/4Tig5VRbbjQ)
 
 ![Image](https://github.com/user-attachments/assets/314687bf-0866-46a2-b234-54ec6de8a055)
 
 
+
 ## II. Arboreal Santuary
+
+Unity project
+artiwork made in Krita
 Meditation app that creates a procedural tree for each session and saves it to the calendar-garden.
+Built procedural generation and animation systems for trees in Unity, enabling dynamic, unique plant life within a living digital environment.
+Developed an efficient seed-based saving and rendering system, ensuring each generated tree could be reproduced with minimal performance overhead.
+
 
 [Watch the video](https://www.youtube.com/watch?v=pVTOQnV0uS8)
 
@@ -29,8 +38,15 @@ Meditation app that creates a procedural tree for each session and saves it to t
 
 
 
+### III. Sencraft, game and controller. 
 
-## III. Seasons, interactive visualization. 
+I coded a procedurally generated landscape that the user can traverse using a controller I custom made for this game. The controller consists of a tilt sensor and a joystick, which send their signals through Arduino, using a custom-made system of signaling, to Processing where the game is run. 
+
+
+
+## IV. Seasons, interactive visualization. 
+
+Processing & Arduino
 A multi-scene interactive visualization I coded in Processing, which includes several UI features like painting clouds, changing hues, cycling through the seasons, controlling the wind, and others. 
 
 ### In the spring, paint your own clouds:
@@ -46,8 +62,7 @@ https://github.com/sendemina/Seasons/assets/89432530/e42dea1b-8fbc-4eff-aeea-9cd
 https://github.com/sendemina/Seasons/assets/89432530/1e5c807c-68e0-4c7f-94a9-746f5fa3d61f
 
 
-### IV. Sencraft, game and controller. 
-I coded a procedurally generated landscape that the user can traverse using a controller I custom made for this game. The controller consists of a tilt sensor and a joystick, which send their signals through Arduino, using a custom-made system of signaling, to Processing where the game is run. 
+
 
 [Watch the video](https://www.youtube.com/watch?v=xnlBxOlgdcU)
 
