@@ -4,7 +4,7 @@
 
 [My Resume](https://drive.google.com/file/d/1r2A8rggRoYnX10FZ7vssx8CMRbP18aZf/view?usp=sharing)
 
-[My LinkedIn](www.linkedin.com/in/kseniia-demina)
+[My LinkedIn](http://linkedin.com/in/kseniia-demina)
 
 [My Art Portfolio](https://github.com/sendemina/Portfolio)
 
