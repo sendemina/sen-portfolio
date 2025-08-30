@@ -14,6 +14,7 @@
 ## I. Inlandish (WIP)
 
 Unity project
+
 A self-organizing virtual village capable of developing its own culture and emergent behaviors. People choose their professions, practice their craft, fulfill their needs, and pass down their knowledge to the little ones.
 
 [Video](https://youtu.be/4Tig5VRbbjQ)
@@ -25,7 +26,9 @@ A self-organizing virtual village capable of developing its own culture and emer
 ## II. Arboreal Santuary
 
 Unity project
+
 artiwork made in Krita
+
 Meditation app that creates a procedural tree for each session and saves it to the calendar-garden.
 Built procedural generation and animation systems for trees in Unity, enabling dynamic, unique plant life within a living digital environment.
 Developed an efficient seed-based saving and rendering system, ensuring each generated tree could be reproduced with minimal performance overhead.
@@ -40,13 +43,16 @@ Developed an efficient seed-based saving and rendering system, ensuring each gen
 
 ### III. Sencraft, game and controller. 
 
+Processing & Arduino
+
 I coded a procedurally generated landscape that the user can traverse using a controller I custom made for this game. The controller consists of a tilt sensor and a joystick, which send their signals through Arduino, using a custom-made system of signaling, to Processing where the game is run. 
 
 
 
 ## IV. Seasons, interactive visualization. 
 
-Processing & Arduino
+Processing
+
 A multi-scene interactive visualization I coded in Processing, which includes several UI features like painting clouds, changing hues, cycling through the seasons, controlling the wind, and others. 
 
 ### In the spring, paint your own clouds:
